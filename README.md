@@ -1,10 +1,8 @@
 ### Hello World 👋 It's [Ambros Rono](https://linkedin.com/in/ambros-rono-4b9281191) 
-<img src="image/banner.jpg">
+<img src="https://www.vectorstock.com/royalty-free-vector/cyber-security-banner-anti-virus-network-hacking-vector-26247919"/>
 
 
 ## I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. I'm actively looking for opportunities and collaboration in projects related Cyber Security and Software Engineering.❤✌
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
