@@ -1,4 +1,4 @@
-### Hello World 👋 It's [@Rono18](https://linkedin.com/in/ambros-rono-4b9281191) 
+### Hello World 👋 It's [Ambros Rono](https://linkedin.com/in/ambros-rono-4b9281191) 
 <img src="image/banner.jpg">
 
 
