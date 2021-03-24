@@ -26,12 +26,7 @@
 <br />
 
 ### 💻 OS 🔝
-    [<img align="left" alt="Kali-Linux" width="50px" height="50px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>]
-    [<img align="left" alt="Windows" width="50px" height="50px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>]
-    [<img align="left" alt="Linux" width="50px" height="50px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>]
-    [<img align="left" alt="Ubuntu" width="50px" height="50px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>]
-    [<img align="left" alt="Arch-Linux" width="50px" height="50px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>]
-    <br/>
+   
 ### Skills and Tools:🔝
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -46,14 +41,21 @@
 [<img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kali-linux/kali-linux.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arch-linux/arch-linux.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]
 <br/>
 <br/>
-### 🎮🕹 Fun Games 🔝
-[<img align="left" alt="PlayStation" width="50px" height="50px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>]
-<br/>
-<br/>
+
 ### Github Stats  🔝
 ![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=Rono18&show_icons=true&theme=radical)
+
+### 🎮🕹 Fun Games 🔝
+[<img align="left" alt="PlayStation" width="100px" height="100px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>]
+<br/>
+<br/>
 
 </details>
 
