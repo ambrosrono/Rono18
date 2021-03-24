@@ -11,7 +11,8 @@
 - 💬 Ask me about anything, Would love to answer them.✌ 
 - ⚡ Fun fact & Stats: There is a hacker attack every 39 seconds! || 95% of cybersecurity breaches are due to human error!
 - 🌐 Visit my <u>porfolio website(Coming Soon!!!)</u> for complete background and contact.
-
+<br />
+<br />
 ### Connect with me:
 <a href="https://linkedin.com/in/ambros-rono-4b9281191">
 <img align="left" alt="Ambros Rono" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,12 +21,15 @@
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
+<br />
 
 ### 💻 OS 🔝
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
-[<img align="left" alt="Arch-Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arch-linux/arch-linux.png" />]
+
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
+[<img align="left" alt="Ubuntu" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]
+[<img align="left" alt="Linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
+<br />
+<br />
    
 ### Skills and Tools:🔝
 
@@ -40,13 +44,16 @@
 [<img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<br />
+<br />
 
 ### Github Stats  🔝
 ![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=Rono18&show_icons=true&theme=radical)
+<br/>
+<br/>
 
 ### 🎮🕹 Fun Games 🔝
 [<img align="left" alt="PlayStation" width="100px" height="100px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>]
-<br/>
-<br/>
+
 
 </details>
