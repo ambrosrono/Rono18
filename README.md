@@ -2,7 +2,7 @@
 <img src="image/banner.jpg">
 
 
-## I am a Cyber Security Enthusiast & Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that I enjoy working in are Python, JavaSCript, Java & Kali Linux. I am actively looking for opportunities and collabaration in projects related to Software Engineering and Cyber Security.❤✌
+## I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. I'm actively looking for opportunities and collaboration in projects related Cyber Security and Software Engineering.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -11,11 +11,10 @@
 - 🔭 I'm currently learning on new technologies related to cyber security (also, I am brushing up my Ethical Hacking skills regularly)
 - 🌱 I’m currently learning everything... 🤣
 - 👯 🤝I’m looking to collaborate with Senior Software Engineers and Information Security Specialist.
-- 🌐 Visit my porfolio website(Coming Soon!!!) for complete background and contact.
 - 😇 Pronouns: He/Him, Technologist.
 - 💬 Ask me about anything, Would love to answer them.✌ 
 - ⚡ Fun fact & Stats: There is a hacker attack every 39 seconds! || 95% of cybersecurity breaches are due to human error!
-- 
+- 🌐 Visit my porfolio website(Coming Soon!!!) for complete background and contact.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/ambros-rono-4b9281191">
@@ -27,12 +26,12 @@
 <br />
 
 ### 💻 OS 🔝
-    [<img align="left" alt="Windows" width="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]
-    [<img align="left" alt="SQL" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>]
-    [<img align="left" alt="SQL" width="26px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>]
-    [<img align="left" alt="SQL" width="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>]
-    [<img align="left" alt="SQL" width="26px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>]
-
+    [<img align="left" alt="Kali-Linux" width="50px" height="50px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>]
+    [<img align="left" alt="Windows" width="50px" height="50px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>]
+    [<img align="left" alt="Linux" width="50px" height="50px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>]
+    [<img align="left" alt="Ubuntu" width="50px" height="50px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>]
+    [<img align="left" alt="Arch-Linux" width="50px" height="50px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>]
+    <br/>
 ### Skills and Tools:🔝
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
