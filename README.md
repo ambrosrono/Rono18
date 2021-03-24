@@ -41,13 +41,9 @@
 [https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white]
 
 ---
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ambros Rono" src="https://github-readme-stats.Rono18.vercel.app/api?username=Rono18&show_icons=true&hide_border=true" />
+<br/>
+<br/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rono18)
 
 </details>
 
