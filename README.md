@@ -1,19 +1,29 @@
-### Hi there, I'm Rono Ambros 👋
+### Hello World 👋 It's [@Rono18](https://linkedin.com/in/ambros-rono-4b9281191) 
 <img src="image/banner.jpg">
 
 
-## I am a Cyber Security Enthusiast & Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that I enjoy working in are Python, JavaSCript, Java & Kali Linux. I am actively looking for opportunities and collabaration in projects related to Software Engineering and Cyber Security.
+## I am a Cyber Security Enthusiast & Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that I enjoy working in are Python, JavaSCript, Java & Kali Linux. I am actively looking for opportunities and collabaration in projects related to Software Engineering and Cyber Security.❤✌
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I'm currently learning on new technologies related to cyber security (also, I am brushing up my Ethical Hacking skills regularly)
 - 🌱 I’m currently learning everything... 🤣
 - 👯 🤝I’m looking to collaborate with Senior Software Engineers and Information Security Specialist.
 - 🌐 Visit my porfolio website(Coming Soon!!!) for complete background and contact.
-- 😇 Pronouns: He/Him, Technologist. 
+- 😇 Pronouns: He/Him, Technologist.
+- 💬 Ask me about anything, Would love to answer them.✌ 
 - ⚡ Fun fact & Stats: There is a hacker attack every 39 seconds! || 95% of cybersecurity breaches are due to human error!
 - 
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://linkedin.com/in/ambros-rono-4b9281191)
+<a href="https://linkedin.com/in/ambros-rono-4b9281191">
+<img align="left" alt="Ambros Rono" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.twitter.com/Ambros-Rono/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <br />
 
 ### 💻 OS 🔝
@@ -39,11 +49,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <br/>
 <br/>
-
 ### 🎮🕹 Fun Games 🔝
-[<img align="left" alt="PlayStation" width="26px" height="30px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>]
-
----
+[<img align="left" alt="PlayStation" width="50px" height="50px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>]
 <br/>
 <br/>
 ### Github Stats  🔝
