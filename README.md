@@ -2,16 +2,14 @@
 
  I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. I'm actively looking for opportunities and collaboration in projects related to Cyber Security and Software Engineering.❤✌
 <br/>
-<br/>
 ### Get In Touch:
-<br/>
 <a href="https://linkedin.com/in/ambros-rono-4b9281191">
 <img align="left" alt="Ambros Rono" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/@rono_ambros/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<br/>
 **Talking about Personal Stuffs:**
 
 - 🔭 I'm currently learning on new technologies related to cyber security (also, I am brushing up my Ethical Hacking skills regularly)
