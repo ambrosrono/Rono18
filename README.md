@@ -50,7 +50,7 @@
 <br/>
 
 ### Github Stats  🔝
-![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=Rono18&show_icons=true&theme=radical)
+![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=ambrosrono&show_icons=true&theme=radical)
 <br/>
 <br/>
 ### 🎮🕹 Fun Games 🔝
